@@ -1,0 +1,18 @@
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 6.8.12+ x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+Expanded Security Maintenance for Applications is not enabled.
+
+122 updates can be applied immediately.
+122 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+17 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+The list of available updates is more than a week old.
+To check for new updates run: sudo apt update
